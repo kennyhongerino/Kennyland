@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animated Sword
+* source:	https://sketchfab.com/3d-models/animated-sword-403f64420e0b4ca69b7b5f2f8e0086b1
+* author:	SJunior3d (https://sketchfab.com/sjunior3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animated Sword" (https://sketchfab.com/3d-models/animated-sword-403f64420e0b4ca69b7b5f2f8e0086b1) by SJunior3d (https://sketchfab.com/sjunior3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

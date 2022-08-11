@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shattered crystal sword
+* source:	https://sketchfab.com/3d-models/shattered-crystal-sword-24dd0362309142729ad5e8d222724b20
+* author:	WizOfFab (https://sketchfab.com/WizOfFab)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shattered crystal sword" (https://sketchfab.com/3d-models/shattered-crystal-sword-24dd0362309142729ad5e8d222724b20) by WizOfFab (https://sketchfab.com/WizOfFab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

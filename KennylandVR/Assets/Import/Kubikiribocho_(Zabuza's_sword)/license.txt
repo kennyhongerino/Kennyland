@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kubikiribocho (Zabuza's sword)
+* source:	https://sketchfab.com/3d-models/kubikiribocho-zabuzas-sword-f7ddfc19ff1340698853aa568a07e3b0
+* author:	Nekrofero (https://sketchfab.com/Nekrofero)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kubikiribocho (Zabuza's sword)" (https://sketchfab.com/3d-models/kubikiribocho-zabuzas-sword-f7ddfc19ff1340698853aa568a07e3b0) by Nekrofero (https://sketchfab.com/Nekrofero) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
