@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy Box
+* source:	https://sketchfab.com/3d-models/toy-box-8ce01f03c4c54c1bb69f6ba47a590586
+* author:	Hayley Jacka (https://sketchfab.com/HayleyJacka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Box" (https://sketchfab.com/3d-models/toy-box-8ce01f03c4c54c1bb69f6ba47a590586) by Hayley Jacka (https://sketchfab.com/HayleyJacka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
